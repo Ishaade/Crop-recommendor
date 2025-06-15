@@ -23,7 +23,7 @@ Crop-recommendor/
 ```bash
 git clone https://github.com/Ishaade/Crop-recommendor.git
 cd Crop-recommendor
-pip install -r requirements.txt
+pip install -r requirements
 python app/main.py
 
 ---
